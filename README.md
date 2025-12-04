@@ -17,7 +17,7 @@
 <!-- HEADER WITH GIF + INTRO TEXT -->
 <table>
   <tr>
-    <td>
+    <td width="65%">
       <h1>Hello there, fellow &lt;coders/&gt;! 👋</h1>
       <p><b>AI Enthusiast • Developer • Entrepreneur • Diploma Student</b></p>
       <p><i>"I break code every day... and fix it the same night."</i></p>
@@ -32,8 +32,8 @@
         I love Marvel more than sleep.
       </p>
     </td>
-    <td align="right">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
+    <td width="35%" align="right">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="200">
     </td>
   </tr>
 </table>
