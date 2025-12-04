@@ -74,12 +74,12 @@ my projects speak for me.
   <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
 </p>
 
-## 🔥 Featured Projects (Clickable Cards)
+## 🔥Highlighted Projects
 
 <table>
   <tr>
     <td width="33%">
-      <h3>🚀 <a href="https://github.com/yashmagar01/The-Future-You">The Future You (MVP)</a></h3>
+      <h3>🚀 <a href="https://the-future-you.vercel.app/">The Future You (MVP)</a></h3>
       <p>
         A zero-cost AI-powered reflection + self-growth companion using private,  
         video-based emotional analysis. Designed to help you understand the  
@@ -90,7 +90,7 @@ my projects speak for me.
       </a>
     </td>
     <td width="33%">
-      <h3>🧠 <a href="https://github.com/yashmagar01/Persona">Persona</a></h3>
+      <h3>🧠 <a href="https://personanew.vercel.app/">Persona</a></h3>
       <p>
         An AI-driven identity &amp; behavior toolkit for structured, contextual  
         interactions inside your apps. Helps define how different personas think,  
@@ -101,7 +101,7 @@ my projects speak for me.
       </a>
     </td>
     <td width="33%">
-      <h3>🛠️ <a href="https://github.com/yashmagar01/Generation-Tools">Generation Tools</a></h3>
+      <h3>🛠️ <a href="https://generations-tools.vercel.app/">Generation Tools</a></h3>
       <p>
         A clean, fast 12-in-1 utility suite for developers — UUIDs, CSS gradients,  
         placeholder images, dummy text, and more. Built to keep all “small but  
@@ -117,7 +117,8 @@ my projects speak for me.
 <p align="center">
   <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
 </p>
-## 🧰 Languages & Tools
+
+🧰 Languages & Tools
 
 <p align="center">
   <img src="./assets/gradient-divider.svg" width="100%" alt="Divider" />
