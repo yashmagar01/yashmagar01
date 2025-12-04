@@ -17,22 +17,17 @@
 <!-- HEADER WITH GIF + INTRO TEXT -->
 <table>
   <tr>
-    <td width="65%">
+    <td>
       <h1>Hello there, fellow &lt;coders/&gt;! 👋</h1>
       <p><b>AI Enthusiast • Developer • Entrepreneur • Diploma Student</b></p>
       <p><i>"I break code every day... and fix it the same night."</i></p>
       <p>
-        I'm Yash — a calm, focused, slightly mysterious tech wizard  
-        exploring AI, building practical tools, and upgrading myself  
-        one silent version at a time.
-      </p>
-      <p>
-        Baby pasun Baba bannyachya age madhe...<br>
-        Certified hostel survivor.<br> 
-        I love Marvel more than sleep.
+        I’m Yash, exploring the world of AI and full-stack development through practical, hands-on projects.
+        Passionate about building useful tools, shipping MVPs, and learning through real execution.
+        Focused on becoming a strong engineer, one small improvement at a time.
       </p>
     </td>
-    <td width="35%" align="right">
+    <td width="300" align="center">
       <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="200">
     </td>
   </tr>
