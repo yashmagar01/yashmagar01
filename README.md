@@ -1,6 +1,6 @@
 <!-- NEON BANNER -->
 <p align="center">
-  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/neon-banner.svg" alt="Yash Magar Banner" />
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/neon-banner.svg" alt="yash magar Banner" />
 </p>
 
 <!-- LIVE STATUS BADGE -->
@@ -20,15 +20,16 @@
     <td>
       <h1>Hello there, fellow &lt;coders/&gt;! 👋</h1>
       <p><b>AI Enthusiast • Developer • Entrepreneur • Diploma Student</b></p>
-      <p><i>"Baby pasun Baba bannyachya age madhe..."</i></p>
+      <p><i>"I break code every day... and fix it the same night."</i></p>
       <p>
         I'm Yash — a calm, focused, slightly mysterious tech wizard  
         exploring AI, building practical tools, and upgrading myself  
         one silent version at a time.
       </p>
       <p>
-        I break code every day... and fix it the same night.<br>
-        Certified hostel survivor. Marvel &gt; sleep.
+        Baby pasun Baba bannyachya age madhe...<br>
+        Certified hostel survivor.<br> 
+        I love Marvel more than sleep.
       </p>
     </td>
     <td>
@@ -113,13 +114,14 @@ my projects speak for me.
   </tr>
 </table>
 
-> 🔁 Update the repo links above if your actual repo names differ.
-
 <p align="center">
   <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
 </p>
-
 ## 🧰 Languages & Tools
+
+<p align="center">
+  <img src="./assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ### 💻 Programming Languages
 <p>
@@ -132,39 +134,104 @@ my projects speak for me.
   <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
+**Skill snapshot**  
+- Core web (HTML, CSS, JS, TS) — ●●●○○ (pro)  
+- Python — ●●○○○ (comfortable basics)  
+- C / C++ — ●●○○○ (academic & practice level)  
+
+---
+
+### 🎨 Design & Prototyping
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+- UI mockups & quick social assets — ●●●○○  
+- Portfolio / landing pages in Framer — ●●○○○  
+
+<p align="center">
+  <img src="./assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
+
 ### 🌐 Web Development
 
-#### Frontend
+#### ⚛️ Frontend
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-#### Backend
+- React + Vite — ●●●○○ (building real projects)  
+- Tailwind CSS — ●●●○○ (comfortable for production UIs)  
+
+#### 🖥️ Backend
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
+- Django — ●●○○○ (building real projects))  
+- Node.js / Express — ●●○○○ (comfortable at MVP scale)  
+
+---
+
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🧪 AI / ML Tools
+- SQL fundamentals (MySQL / SQLite) — ●●●○○  
+- Supabase / Firebase — ●●○○○ (auth + CRUD)  
+
+<p align="center">
+  <img src="./assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
+
+### 🤖 AI / ML Tools
 <p>
-  <img src="https://img.shields.io/badge/Gemini_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Comet-2B59C3?style=for-the-badge&logo=comet&logoColor=white" />
+  <img src="https://img.shields.io/badge/AntiGravity-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NotebookLM-10A37F?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-00BDFF?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_APIs-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
+- Prompting & workflow design — ●●●○○  
+- Local & hosted model experimentation — ●●○○○  
+
+---
+
+### ⚡ Vibe Code / No-Code Tools
+<p>
+  <img src="https://img.shields.io/badge/Bolt.new-000000?style=for-the-badge&logo=bolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable.dev-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma%20Make-0ACF83?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+- Rapid UI / idea prototyping — ●●○○○  
+
+---
 
 ### 🚀 Deployment / DevOps
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-121212?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
+
+- Hobby / MVP deployments — ●●●○○  
+
+---
 
 ### 🛠️ Developer Tools
 <p>
@@ -174,9 +241,21 @@ my projects speak for me.
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
+- Everyday dev setup (VS Code + Git) — ●●●○○  
+
 <p align="center">
-  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+  <img src="./assets/gradient-divider.svg" width="100%" alt="Divider" />
 </p>
+
+### 📚 Currently Learning
+
+- Deeper **TypeScript + React** patterns  
+- **Node / Express** for more serious backends  
+- **Supabase / Firebase** for auth + real-time features  
+- Better **AI tooling workflows** (Ollama, Hugging Face, NotebookLM)  
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -195,7 +274,7 @@ my projects speak for me.
 
 ## 📬 Contact
 
-📧 **Email:** *your email here*  
+📧 **Email:** *yashajaymagar10@gmail.com*  
 
 ---
 
