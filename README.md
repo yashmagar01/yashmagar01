@@ -32,7 +32,7 @@
         I love Marvel more than sleep.
       </p>
     </td>
-    <td>
+    <td align="right">
       <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/coder.gif"
            alt="Yash coding" width="270">
     </td>
