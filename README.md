@@ -41,7 +41,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00A4FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Developer+in+Progress;Building+Tools+for+Developers;Quietly+Upgrading+Every+Day;Future+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
 </p>
 
 <p align="center">
