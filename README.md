@@ -33,16 +33,10 @@
       </p>
     </td>
     <td align="right">
-      <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/coder.gif"
-           alt="Yash coding" width="270">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
     </td>
   </tr>
 </table>
-
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="500">
-</p>
 
 <p align="center">
   <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
