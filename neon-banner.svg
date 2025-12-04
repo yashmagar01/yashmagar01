@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#ff0080"/>
+    </linearGradient>
+    <style>
+      .title {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 64px;
+        font-weight: 700;
+        letter-spacing: 3px;
+      }
+      .subtitle {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        font-size: 22px;
+        opacity: 0.9;
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="#050816"/>
+  <rect x="8" y="8" width="1184" height="244" rx="20" fill="none" stroke="url(#neonGradient)" stroke-width="2"/>
+
+  <text x="50%" y="44%" text-anchor="middle" fill="url(#neonGradient)" class="title">
+    YASH MAGAR
+  </text>
+  <text x="50%" y="64%" text-anchor="middle" fill="#e5e7eb" class="subtitle">
+    AI Enthusiast • Developer • Entrepreneur • Diploma Student
+  </text>
+</svg>

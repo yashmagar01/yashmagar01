@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
+  <defs>
+    <linearGradient id="matrixGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <style>
+      .matrix {
+        font-family: "Fira Code", monospace;
+        font-size: 18px;
+        fill: url(#matrixGrad);
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="140" fill="#020617"/>
+
+  <text x="5%" y="-10" class="matrix">01 010 110 001 101 010 011 000</text>
+  <text x="25%" y="-30" class="matrix">101 001 011 111 000 101 010 010</text>
+  <text x="45%" y="-20" class="matrix">010 111 000 011 101 010 001 110</text>
+  <text x="65%" y="-40" class="matrix">111 000 010 011 101 010 001 010</text>
+  <text x="85%" y="-15" class="matrix">001 010 111 000 011 010 101 001</text>
+
+  <animateTransform attributeName="transform"
+                    type="translate"
+                    from="0 -40"
+                    to="0 40"
+                    dur="6s"
+                    repeatCount="indefinite"/>
+</svg>

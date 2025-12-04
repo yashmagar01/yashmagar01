@@ -1,4 +1,20 @@
-<!-- HEADER WITH GIF + TEXT -->
+<!-- NEON BANNER -->
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/neon-banner.svg" alt="Yash Magar Banner" />
+</p>
+
+<!-- LIVE STATUS BADGE -->
+<p align="center">
+  <a href="https://github.com/yashmagar01">
+    <img src="https://img.shields.io/badge/Currently%20working%20on-The%20Future%20You-ff00ff?style=for-the-badge&logo=github" alt="Current project badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
+
+<!-- HEADER WITH GIF + INTRO TEXT -->
 <table>
   <tr>
     <td>
@@ -12,7 +28,7 @@
       </p>
       <p>
         I break code every day... and fix it the same night.<br>
-        Certified hostel survivor. Marvel > sleep.
+        Certified hostel survivor. Marvel &gt; sleep.
       </p>
     </td>
     <td>
@@ -22,11 +38,18 @@
   </tr>
 </table>
 
----
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00A4FF&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Developer+in+Progress;Building+Tools+for+Developers;Quietly+Upgrading+Every+Day;Future+Full+Stack+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
+
+<!-- MATRIX RAIN STRIP -->
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/matrix-rain.svg" width="100%" alt="Matrix code rain" />
 </p>
 
 ---
@@ -46,26 +69,55 @@ Currently working on:
 I prefer *deep work over loud announcements* —  
 my projects speak for me.
 
----
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects (Clickable Cards)
 
-### 🚀 **The Future You (MVP)**  
-A zero-cost AI-powered reflection + self-growth companion using private, video-based emotional analysis.  
-**Goal:** Launch MVP in 2025.
+<table>
+  <tr>
+    <td width="33%">
+      <h3>🚀 <a href="https://github.com/yashmagar01/The-Future-You">The Future You (MVP)</a></h3>
+      <p>
+        A zero-cost AI-powered reflection + self-growth companion using private,  
+        video-based emotional analysis. Designed to help you understand the  
+        future version of yourself through daily reflections.
+      </p>
+      <a href="https://github.com/yashmagar01/The-Future-You">
+        <img src="https://img.shields.io/badge/View_Repo-The_Future_You-00f5ff?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="33%">
+      <h3>🧠 <a href="https://github.com/yashmagar01/Persona">Persona</a></h3>
+      <p>
+        An AI-driven identity &amp; behavior toolkit for structured, contextual  
+        interactions inside your apps. Helps define how different personas think,  
+        speak, and respond in various situations.
+      </p>
+      <a href="https://github.com/yashmagar01/Persona">
+        <img src="https://img.shields.io/badge/View_Repo-Persona-7c3aed?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+    <td width="33%">
+      <h3>🛠️ <a href="https://github.com/yashmagar01/Generation-Tools">Generation Tools</a></h3>
+      <p>
+        A clean, fast 12-in-1 utility suite for developers — UUIDs, CSS gradients,  
+        placeholder images, dummy text, and more. Built to keep all “small but  
+        important” dev tools in one modern interface.
+      </p>
+      <a href="https://github.com/yashmagar01/Generation-Tools">
+        <img src="https://img.shields.io/badge/View_Repo-Generation_Tools-ff0080?style=for-the-badge&logo=github" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+> 🔁 Update the repo links above if your actual repo names differ.
 
-### 🧠 **Persona**  
-An AI-driven identity & behavior toolkit for structured, contextual interactions inside your apps.
-
----
-
-### 🛠️ **Generation Tools**  
-A clean, fast 12-in-1 utility suite for developers —  
-UUIDs, CSS gradients, placeholder images, dummy text, and more.
-
----
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## 🧰 Languages & Tools
 
@@ -79,8 +131,6 @@ UUIDs, CSS gradients, placeholder images, dummy text, and more.
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
-
----
 
 ### 🌐 Web Development
 
@@ -98,15 +148,11 @@ UUIDs, CSS gradients, placeholder images, dummy text, and more.
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
----
-
 ### 🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
-
----
 
 ### 🧪 AI / ML Tools
 <p>
@@ -114,15 +160,11 @@ UUIDs, CSS gradients, placeholder images, dummy text, and more.
   <img src="https://img.shields.io/badge/AI_APIs-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
----
-
 ### 🚀 Deployment / DevOps
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-121212?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
-
----
 
 ### 🛠️ Developer Tools
 <p>
@@ -132,7 +174,9 @@ UUIDs, CSS gradients, placeholder images, dummy text, and more.
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -145,12 +189,13 @@ UUIDs, CSS gradients, placeholder images, dummy text, and more.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashmagar01&theme=tokyo-night" />
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
 
 ## 📬 Contact
 
 📧 **Email:** *your email here*  
-(Only platform I’m active on right now.)
 
 ---
 
