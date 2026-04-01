@@ -250,7 +250,6 @@ my projects speak for me.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=yashmagar01&theme=tokyonight&show_icons=true&rank_icon=github" />
   <img height="150" src="https://streak-stats.demolab.com?user=yashmagar01&theme=tokyonight" />
 </p>
 
@@ -260,6 +259,10 @@ my projects speak for me.
 
 <p align="center">
   <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/gradient-divider.svg" width="100%" alt="Divider" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashmagar01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 📬 Contact
