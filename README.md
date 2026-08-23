@@ -1,3 +1,12 @@
+<!-- GH-ASCII PROFILE CARD -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="yashmagar01's GitHub profile" src="dark_mode.svg" width="100%" />
+  </picture>
+</p>
+
 <!-- NEON BANNER -->
 <p align="center">
   <img src="https://github.com/yashmagar01/yashmagar01/raw/main/assets/neon-banner.svg" alt="yash magar Banner" />
